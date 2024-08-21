@@ -1,0 +1,11 @@
+black
+flake8
+isort
+pip
+python-dotenv
+python-slugify
+pyyaml
+numpy
+pandas
+tensorflow
+-e .
