@@ -5,9 +5,12 @@ pip
 python-dotenv
 python-slugify
 pyyaml
+matplotlib
 numpy
 pandas
-tensorflow
+tensorflow==2.11.0
+tensorflow-datasets
 ipykernel
 Image
+opencv-python
 -e .
